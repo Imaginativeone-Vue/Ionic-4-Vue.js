@@ -13,6 +13,7 @@
     "ajv-keywords": "^3.2.0",
     "axios": "^0.17.1",
     "babel-polyfill": "^6.26.0",
+    "lodash": "^4.17.11",
     "vue": "^2.5.13"
   },
   "devDependencies": {
